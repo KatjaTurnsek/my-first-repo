@@ -1,0 +1,34 @@
+# Node
+node_modules/
+.eslintcache
+
+# Build output (add the ones you actually use)
+dist/
+build/
+coverage/
+
+# Tool caches (optional)
+.cache/
+.parcel-cache/
+.vite/
+.svelte-kit/
+.next/
+.nuxt/
+.astro/
+
+# Env files (keep .env.example in git)
+.env
+.env.*
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# macOS / Editor noise
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
