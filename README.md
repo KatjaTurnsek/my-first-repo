@@ -1,4 +1,23 @@
-cd ~/Noroff/my-first-repo
-cat > README.md <<'EOF'
 # my-first-repo
-Some text…
+
+Description
+
+## User stories
+
+- User can register
+- User can login
+- Authenticated user can create a blog entry
+
+## Setup
+
+To install
+
+```bash
+npm install
+```
+
+In development
+
+```bash
+npm run dev
+```
